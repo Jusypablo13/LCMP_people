@@ -1,3 +1,9 @@
 Paso #1: git clone (link de github)
 Paso #2: cd (nombre de repo)
 Paso #3: git pull
+Paso #4: Create a branch directly on github
+Paso #5: git checkout
+         git checkout (Name of the branch)
+Paso #6: git fetch origin
+
+Now add/commit/push
