@@ -7,3 +7,7 @@ Paso #5: git checkout
 Paso #6: git fetch origin
 
 Now add/commit/push
+
+Then if you want to make current changes:
+
+git (pull/add/commit/push)
